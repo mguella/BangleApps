@@ -1,0 +1,13 @@
+{
+  "id":"test.animation",
+  "name":"Animation Test",
+  "shortName":"Animation Test",
+  "version":"0.0.1",
+  "description": "A detailed description of my great app",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "storage": [
+    {"name":"test.animation.app.js","url":"app.js"}
+  ]
+}
