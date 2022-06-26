@@ -8,7 +8,7 @@
   "tags": "",
   "supports" : ["BANGLEJS2"],  
   "storage": [
-    {"name":"test.animation.app.js","url":"app.js"},
+    {"name":"test.animation.app.js","url":"app.min.js"},
     {"name":"test.animation.img","url":"icon.js","evaluate":true}
   ]
 }
